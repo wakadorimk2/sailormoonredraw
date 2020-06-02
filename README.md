@@ -7,17 +7,17 @@ Develop a image generative model by using sailormoonredraw illustrations.
 
 有名なシーンの一枚絵を元にして、それはもう色々な派生が作られました。
 
-https://twitter.com/Koushun1022/status/1261937834744623105
+![https://twitter.com/Koushun1022/status/1261937834744623105](1261937834744623105.png)
 
 基本的にはイラストレーターの個性を全面に押し出したパターンが多いです。
 
-https://twitter.com/m0721804/status/1261975273475432448
+![https://twitter.com/m0721804/status/1261975273475432448](1261975273475432448.png)
 
-https://twitter.com/Souryu_STD/status/1261760323477889025
+![https://twitter.com/Souryu_STD/status/1261760323477889025](1261760323477889025.png)
 
 他にも有名な漫画であるジョジョ風にしたりとか、多様性に富んでます。
 
-https://twitter.com/asikoh009/status/1262059435012157440
+![https://twitter.com/asikoh009/status/1262059435012157440](1262059435012157440.png)
 
 # なぜ画像生成をするのか
 今回の事例で重要なのは「キャラクターも背景も構図も同じイラストを、世界中の多くのイラストレーターが描いた」という点です。
